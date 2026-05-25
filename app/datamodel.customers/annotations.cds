@@ -1,0 +1,1 @@
+using datamodelSrv as service from '../../srv/service';
